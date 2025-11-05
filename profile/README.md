@@ -5,6 +5,10 @@
   >
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento%20Ativo-C2A26F?style=for-the-badge" alt="Status: Em Desenvolvimento Ativo">
+</p>
+
 <h1 align="center">
   Encontro D'Água Hub
 </h1>
@@ -18,6 +22,10 @@
 <hr>
 
 <h3 align="center">🌀 Sobre o Ecossistema</h3>
+
+> **[Status Atual: Pré-Lançamento]** 
+> 
+> O Encontro D'Água Hub está em fase de estruturação e desenvolvimento ativo. Estamos migrando nossos sistemas para esta organização e construindo nossos próximos projetos. O que você vê aqui é o "construindo em público" (building in public). 
 
 <p>
 O <strong>Encontro D'Água Hub</strong> é um ecossistema de Agentes de IA e automação fundado por <a href="https://github.com/lidimoura">Lidi Moura</a>, focado em criar soluções tecnológicas sustentáveis, inclusivas e eficientes para otimizar processos de negócios e acelerar a entrega de projetos de tecnologia.
