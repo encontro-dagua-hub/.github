@@ -14,7 +14,7 @@
 </h1>
 
 <p align="center">
-  <strong>Construindo o futuro da automação acessível com Agentes de IA.</strong>
+  <strong>Construindo o futuro da automação acessível com agentes de IA.</strong>
   <br />
   Nossa missão é otimizar fluxos de trabalho e entregar projetos de alto impacto.
 </p>
@@ -28,7 +28,7 @@
 > O Encontro D'Água Hub está em fase de estruturação e desenvolvimento ativo. Estamos migrando nossos sistemas para esta organização e construindo nossos próximos projetos. O que você vê aqui é o "construindo em público" (building in public). 
 
 <p>
-O <strong>Encontro D'Água Hub</strong> é um ecossistema de Agentes de IA e automação fundado por <a href="https://github.com/lidimoura">Lidi Moura</a>, focado em criar soluções tecnológicas sustentáveis, inclusivas e eficientes para otimizar processos de negócios e acelerar a entrega de projetos de tecnologia.
+O <strong>Encontro D'Água Hub</strong> é um ecossistema de agentes de IA e automação fundado por <a href="https://github.com/lidimoura">Lidi Moura</a>, focado em criar soluções tecnológicas sustentáveis, inclusivas e eficientes para otimizar processos de negócios e acelerar a entrega de projetos de tecnologia.
 </p>
 
 <h3 align="center">Stack Tecnológico</h3>
