@@ -1,21 +1,13 @@
 
 <div align="center">
-
-  <img src=".logo-icon-gold-transp.png" alt="Logo CRM Hub" width="150">
-
-  <h1>Encontro d'água Hub & CRM</h1>
-
-  <p>Ecossistema de Inteligência Aplicada a Data Science</p>
-
-</div>
+  <img src="https://raw.githubusercontent.com/encontro-dagua-hub/.github/main/profile/logo-icon-gold-transp.png" alt="Encontro D'água Hub Logo" width="200">
+ <h1>Encontro D'água Hub</h1>
+ </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento%20Ativo-C2A26F?style=for-the-badge" alt="Status: Em Desenvolvimento Ativo">
 </p>
 
-<h1 align="center">
-  Encontro D'Água Hub
-</h1>
 
 <p align="center">
   <strong>Construindo o futuro da automação acessível com agentes de IA.</strong>
@@ -28,7 +20,6 @@
 <h3 align="center">🌀 Sobre o Ecossistema</h3>
 
 > **[Status Atual: Pré-Lançamento]** 
-> 
 > O Encontro D'Água Hub está em fase de estruturação e desenvolvimento ativo. Estamos migrando nossos sistemas para esta organização e construindo nossos próximos projetos. O que você vê aqui é o "construindo em público" (building in public). 
 
 <p>
@@ -56,4 +47,4 @@ O <strong>Encontro D'Água Hub</strong> é um ecossistema de agentes de IA e aut
   </a>
 </p>
 
-.
+
