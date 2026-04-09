@@ -1,9 +1,13 @@
-<p align="center">
-  <img 
-    src="https://via.placeholder.com/1280x400/1A1A1A/C2A26F.png?text=Encontro+D'%C3%81gua+Hub" 
-    alt="Banner do Encontro D'Água Hub"
-  >
-</p>
+
+<div align="center">
+
+  <img src=".logo-icon-gold-transp.png" alt="Logo CRM Hub" width="150">
+
+  <h1>Encontro d'água Hub & CRM</h1>
+
+  <p>Ecossistema de Inteligência Aplicada a Data Science</p>
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento%20Ativo-C2A26F?style=for-the-badge" alt="Status: Em Desenvolvimento Ativo">
