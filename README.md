@@ -1,10 +1,5 @@
-<p align="center">
-  <img 
-    src="https://via.placeholder.com/1280x400/1A1A1A/C2A26F.png?text=Encontro+D'%C3%81gua+Hub" 
-    alt="Banner do Encontro D'Água Hub"
-  >
-</p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/encontro-dagua-hub/.github/refs/heads/main/profile/logo-dark.png" alt="Encontro D'água Hub Logo" width="200">
 <h1 align="center">
   Encontro D'Água Hub
 </h1>
