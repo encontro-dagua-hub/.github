@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/encontro-dagua-hub/.github/main/profile/logo-icon-gold-transp.png" alt="Encontro D'água Hub Logo" width="200">
+  <img src="https://raw.githubusercontent.com/encontro-dagua-hub/.github/refs/heads/main/profile/logo-dark.png" alt="Encontro D'água Hub Logo" width="200">
  <h1>Encontro D'água Hub</h1>
  </div>
 
